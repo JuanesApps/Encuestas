@@ -1,0 +1,34 @@
+Pregunta 1:
+¿Alguna vez has cocinado?
+a) Sí. Me encanta.
+b) Sí. Solo cuando es completamente necesario.
+c) No. No me interesa.
+d) No. Pero me gustaría prender.
+
+Pregunta 2:
+¿Has tenido ganas de cocinar algo delicioso, pero no lo haces porque faltan ingredientes?
+a) Sí. Me estresa no tener los ingredientes necesarios.
+b) Sí. Me da pereza ir a la tienda por lo que falta.
+c) No. Soy recursivo.
+d) No. Siempre cuento con los ingredientes necesarios para hacer mis recetas.
+
+Pregunta 3:
+¿Consideras que te alimentas de forma monótona?
+a) Sí. No me gusta variar mis comidas.
+b) Sí. No sé que más comer.
+c) No. Trato de variar constantemente mis alimentos.
+d) No. De vez en cuando pruebo cosas nuevas.
+
+Pregunta 4:
+Si pudieras conseguir todos los ingredientes para cocinar sin dejar la comodidad de tu casa, ¿te animarías a cocinar?
+a) Sí. Es divertido cocinar y más si dispongo de todo lo necesario
+b) Sí. Siempre y cuando no afecte mi bolsillo
+c) No. Prefiero pedir comida a domicilio.
+d) No. Odio tener que esperar.
+
+Pregunta 5:
+¿Te gustaría obtener tips para mejorar tus habilidades culinarias sin necesidad de interactuar con un chef?
+a) Sí. Deseo volverme rápido y eficiente en la cocina.
+b) Sí. Un consejo nunca sobra.
+c) No. Prefiero consultar personalmente a un chef.
+d) No. Considero que tengo suficiente experticia en el ámbito culinaria.

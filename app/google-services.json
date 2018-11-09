@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48021192071",
+    "firebase_url": "https://quizdos-e269b.firebaseio.com",
+    "project_id": "quizdos-e269b",
+    "storage_bucket": "quizdos-e269b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48021192071:android:f940aa0234b278b6",
+        "android_client_info": {
+          "package_name": "edu.applications.icesi.encuestas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48021192071-g828hdc016tcn8d4ccrbgbfop9rqq0rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.applications.icesi.encuestas",
+            "certificate_hash": "5298e02488e4452e4fa050e9f4fb3e22e6c71422"
+          }
+        },
+        {
+          "client_id": "48021192071-v2tjp6g983oo376im3p78tkk7ev2neub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPWdsy7RPSX6-Fv0tkrsGrcEKoYuv4olY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48021192071-v2tjp6g983oo376im3p78tkk7ev2neub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
